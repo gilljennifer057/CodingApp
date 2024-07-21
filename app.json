@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "CodingApp",
+    "slug": "CodingApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/nbi.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/nbi.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/nbi.jpg",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/nbi.jpg"
+    }
+  }
+}
